@@ -1,0 +1,66 @@
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/bin/Debug/netcoreapp2.1/Team2Homework.deps.json
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/bin/Debug/netcoreapp2.1/Team2Homework.runtimeconfig.json
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/bin/Debug/netcoreapp2.1/Team2Homework.runtimeconfig.dev.json
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/bin/Debug/netcoreapp2.1/Team2Homework.dll
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/bin/Debug/netcoreapp2.1/Team2Homework.pdb
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/bin/Debug/netcoreapp2.1/Team2Homework.Views.dll
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/bin/Debug/netcoreapp2.1/Team2Homework.Views.pdb
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.csprojAssemblyReference.cache
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.csproj.CoreCompileInputs.cache
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.RazorAssemblyInfo.cache
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.RazorAssemblyInfo.cs
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.AssemblyInfoInputs.cache
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.AssemblyInfo.cs
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.TagHelpers.input.cache
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.TagHelpers.output.cache
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.RazorCoreGenerate.cache
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.RazorTargetAssemblyInfo.cache
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.RazorTargetAssemblyInfo.cs
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.Views.pdb
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.dll
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.pdb
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.csproj.CopyComplete
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Razor/Views/Home/Assignment.g.cshtml.cs
+/Users/wujiazi/Projects/Team2Homework/Team2Homework/obj/Debug/netcoreapp2.1/Razor/Views/Home/Members.g.cshtml.cs
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/bin/Debug/netcoreapp2.1/Team2Homework.deps.json
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/bin/Debug/netcoreapp2.1/Team2Homework.runtimeconfig.json
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/bin/Debug/netcoreapp2.1/Team2Homework.runtimeconfig.dev.json
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/bin/Debug/netcoreapp2.1/Team2Homework.dll
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/bin/Debug/netcoreapp2.1/Team2Homework.pdb
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/bin/Debug/netcoreapp2.1/Team2Homework.Views.dll
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/bin/Debug/netcoreapp2.1/Team2Homework.Views.pdb
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.csprojAssemblyReference.cache
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.csproj.CoreCompileInputs.cache
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.RazorAssemblyInfo.cache
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.RazorAssemblyInfo.cs
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.AssemblyInfoInputs.cache
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.AssemblyInfo.cs
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.TagHelpers.input.cache
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.TagHelpers.output.cache
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.RazorCoreGenerate.cache
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Razor/Views/Home/Assignment.g.cshtml.cs
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Razor/Views/Home/Members.g.cshtml.cs
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.RazorTargetAssemblyInfo.cache
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.RazorTargetAssemblyInfo.cs
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.Views.pdb
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.dll
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.pdb
+/Users/wujiazi/Desktop/Web-based Software Engineering/Homework/HW1/Team2Homework/obj/Debug/netcoreapp2.1/Team2Homework.csproj.CopyComplete
